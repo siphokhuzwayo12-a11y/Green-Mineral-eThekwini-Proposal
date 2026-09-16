@@ -25,11 +25,11 @@ By leveraging international vitrification IP (**Patent Dossier MCE 211993**) pow
 
 ---
 ## Repository Structure
-* `Green_Mineral_&_Bio-Solar_Framework.html` — Full interactive presentation master file with built-in accessibility controls, slide navigation, and multi-language TTS narration (English, isiZulu, Sesotho).
-* `Closed-Loop_Bio-Solar_Engine_Diagram.png` — Operational visual process flow chart and vitrification layout.
-* `README.md` — Framework overview and project documentation.
 
----
+- [Green_Mineral_&_Bio-Solar_Framework.html](https://github.com/siphokhuzwayo12-a11y/Green-Mineral-eThekwini-Proposal/blob/main/Green_Mineral_%26_Bio-Solar_Framework.html)  
+  *Full interactive presentation master file with built-in accessibility controls, slide navigation, and multi-language TTS narration (English, isiZulu, Sesotho).*
 
-## Sovereign Doctrine
+- [Closed-Loop_Bio-Solar_Engine_Diagram.png](https://github.com/siphokhuzwayo12-a11y/Green-Mineral-eThekwini-Proposal/blob/main/Closed-Loop_Bio-Solar_Engine_Diagram.png)  
+  *Operational visual process flow chart and vitrification layout.*
+
 > *"We do not build sovereignty in stench. The corridor is our covenant — communities bring rubble, trucks are intercepted at the gate, and under the dome 100 million tons of waste are forged into national economic capability."*
