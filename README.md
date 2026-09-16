@@ -1,7 +1,7 @@
 # Sovereign Green Mineral & Bio-Solar Master Framework
 
 ## National Strategic Public-Private Partnership (PPP) Proposal
-**Scale:** 100,000,000 Tons/Year Municipal Waste Diversion, Industrial Vitrification & Architectural Glass/Tile Manufacturing Engine
+**Scale:** 10,000,000 Tons/Year Municipal Waste Diversion, Industrial Vitrification & Architectural Glass/Tile Manufacturing Engine
 
 ---
 
