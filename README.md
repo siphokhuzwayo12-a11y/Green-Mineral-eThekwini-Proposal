@@ -60,4 +60,4 @@ No software installations, plugin downloads, or corporate registrations are requ
 
   *Operational visual process flow chart and vitrification layout.*
 
-> *"We do not build sovereignty in stench. The corridor is our covenant — communities bring rubble, trucks are intercepted at the gate, and under the dome 100 million tons of waste are forged into national economic capability."*
+> *"We do not build to collapse. Collapse is dilution — communities bring rubble, trucks are diverted at the gate, and under the dome 10 million tons/year of waste are forged into national economic capability."*
