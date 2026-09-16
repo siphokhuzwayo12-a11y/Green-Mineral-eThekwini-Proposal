@@ -6,7 +6,7 @@
 ---
 ### 📄 Supporting Documents
 
-* 📄 [View Closed-Loop Bio-Solar Engine Micro-Framework](https://siphokhuzwayo12-a11y.github.io/Green-Mineral-eThekwini-Proposal/Closed_Loop_Bio_Solar_Engine_Micro_Framework_Proposal.html)
+* 📄 [View Closed-Loop Bio-Solar Engine Micro-Framework](https://siphokhuzwayo12-a11y.github.io/Green-Mineral-eThekwini-Proposal/)
 * 📄 [View Green Mineral & Bio-Solar Framework](https://siphokhuzwayo12-a11y.github.io/Green-Mineral-eThekwini-Proposal/Green_Mineral_&_Bio-Solar_Framework_Proposal.html)
   
 ## 🌐 Executive Summary
