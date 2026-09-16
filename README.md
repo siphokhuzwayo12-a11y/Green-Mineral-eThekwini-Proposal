@@ -6,7 +6,7 @@
 ---
 
 ## Executive Summary
-The **Green Mineral & Bio-Solar Master Framework** is an industrial-scale circular economy solution engineered to intercept **100,000,000 tons per year** of Construction & Demolition (C&D) rubble, municipal waste glass, and heavy minerals across South African municipal jurisdictions. 
+The **Green Mineral & Bio-Solar Master Framework** is an industrial-scale circular economy solution engineered to intercept **10,000,000 tons per year** of Construction & Demolition (C&D) rubble, municipal waste glass, and heavy minerals across South African municipal jurisdictions. 
 
 By leveraging international vitrification IP (**Patent Dossier MCE 211993**) powered by off-grid bio-solar thermal infrastructure, this project converts raw municipal waste streams into high-value **architectural ceramic tiles, vitrified glass-ceramics, structural glass, and eco-aggregates**.
 
