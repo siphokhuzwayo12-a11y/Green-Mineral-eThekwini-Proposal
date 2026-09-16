@@ -4,7 +4,11 @@
 **Scale:** 10,000,000 Tons/Year Municipal Waste Diversion, Industrial Vitrification & Architectural Glass/Tile Manufacturing Engine
 
 ---
+### 📄 Supporting Documents
 
+* 📄 [View Closed-Loop Bio-Solar Engine Micro-Framework](./Closed-Loop_Bio-Solar_Engine_Micro-Framework.pdf)
+* 📄 [View Green Mineral & Bio-Solar Framework](./Green_Mineral_&_Bio-Solar_Framework.pdf)
+  
 ## 🌐 Executive Summary
 The **Green Mineral & Bio-Solar Master Framework** is an industrial-scale circular economy solution engineered to intercept **10,000,000 tons per year** of Construction & Demolition (C&D) rubble, municipal waste glass, and heavy minerals across South African municipal jurisdictions. 
 
