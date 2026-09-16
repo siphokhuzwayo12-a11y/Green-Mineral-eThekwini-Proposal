@@ -7,7 +7,7 @@
 ### 📄 Supporting Documents
 
 * 📄 [View Closed-Loop Bio-Solar Engine Micro-Framework](https://github.com/siphokhuzwayo12-a11y/Green-Mineral-eThekwini-Proposal/blob/main/Closed-Loop_Bio-Solar_Engine_Microgrid.html)
-* 📄 [View Green Mineral & Bio-Solar Framework]()
+* 📄 [View Green Mineral & Bio-Solar Framework](https://github.com/siphokhuzwayo12-a11y/Green-Mineral-eThekwini-Proposal/blob/main/Green_Mineral_%26_Bio-Solar_Framework_Proposal.html)
   
 ## 🌐 Executive Summary
 The **Green Mineral & Bio-Solar Master Framework** is an industrial-scale circular economy solution engineered to intercept **10,000,000 tons per year** of Construction & Demolition (C&D) rubble, municipal waste glass, and heavy minerals across South African municipal jurisdictions. 
