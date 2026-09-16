@@ -24,13 +24,6 @@ By leveraging international vitrification IP (**Patent Dossier MCE 211993**) pow
 * **Official Reference:** *Phakamile Mbonambi*
 
 ---
-## Repository Structure
-
-- [Green_Mineral_&_Bio-Solar_Framework_Proposal.html](https://github.com/siphokhuzwayo12-a11y/Green-Mineral-eThekwini-Proposal/blob/main/Green_Mineral_%26_Bio-Solar_Framework_Proposal.html)  
-  *Full interactive presentation master file with built-in accessibility controls, slide navigation, and multi-language TTS narration (English, isiZulu, Sesotho).*
-
-- [Closed-Loop_Bio-Solar_Engine_Microgrid.html](https://github.com/siphokhuzwayo12-a11y/Green-Mineral-eThekwini-Proposal/blob/main/Closed-Loop_Bio-Solar_Engine_Microgrid.html)  
-  *Operational visual process flow chart and vitrification layout.*
 
 
 
